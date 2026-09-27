@@ -1,9 +1,0 @@
-# Types of Collections : 
-# String-----""/''
-# List--------[]
-# Tuple------()
-# Set--------{}
-# Dictionary----{Keys:values}
-
-
-#[String = String are used to handle text data . You can perform several operations on strings.
