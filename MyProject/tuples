@@ -1,0 +1,11 @@
+grades = ("C", "D", "A", "A", "B", "B", "A")
+
+count = grades.count("A")
+
+print("Number of students with A grade:", count)
+
+
+list1 = ["A","E","I",'O','U','R','A','C']
+
+countlist = list1.count("A,E")
+print(countlist)
